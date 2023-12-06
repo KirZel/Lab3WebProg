@@ -1,0 +1,103 @@
+.search{
+	height:30px;
+	background:grey;
+	text-align:center;
+	margin:0px;
+}
+.search input{
+	width:30%;
+	height:1.5em;
+}
+.name{
+	background: url("sky.jpg");
+	height:200px;
+	margin:0px;
+	padding-top:50px;
+}
+.menu{
+	padding-top:141px;
+	vertical-align:bottom;
+	text-align:right;
+}
+h2{
+	text-align:center;
+	margin:0px;
+	vertical-align:middle;
+}
+.name a {
+  text-decoration: none; 
+  color: black; 
+  padding: 12px 25px;
+  text-align:left;
+  vertical-align:bottom;
+}
+.name a:hover {
+  background-color: #20202050;
+}
+
+.nameactive {
+  background-color: #20202050;
+}
+
+.content{
+	margin:20px 20px;
+}
+
+.left{
+	float:left;
+	width:64%;
+	overflow:hidden;
+}
+.img_left{
+	float:left;
+	width:64%;
+	height:180px;
+}
+.right{
+	float:right;
+	width:32%;
+	overflow:hidden;
+}
+.img_right{
+	float:right;
+	width:32%;
+	height:180px;
+}
+.content span{
+	display: block; 
+	text-align: left;
+	height:80px;
+	white-space:pre-line;
+}
+.table{
+	margin-top:30px;
+}
+.img_small{
+	width:150px;
+	height:30px;
+}
+.elem{
+	margin: 0.5% 1%;
+	padding:0.4%;
+	float:left;
+	width:30%;
+	border: thin solid black;
+	overflow:hidden;
+	
+}
+.elem span{
+	vertical-align:top;
+	font-weight:bold;
+}
+.contacts {
+  width: 100%;
+  line-height: 50px; 
+  display: inline-block; 
+  vertical-align: middle; 
+  border-top: thin solid black;
+  margin-top:20px;
+
+}
+.rightc {
+float:right;
+}
